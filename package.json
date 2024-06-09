@@ -1,6 +1,6 @@
 {
   "name": "hello-world-utility",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility package to return Hello World",
   "main": "index.js",
   "scripts": {
