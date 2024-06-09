@@ -26,7 +26,6 @@ jobs:
   release:
     name: Create Release
     runs-on: ubuntu-latest
-    needs: test
 
     steps:
       - name: Checkout Repository
